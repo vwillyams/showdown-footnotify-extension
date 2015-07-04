@@ -22,7 +22,7 @@ References:
 The end result will look an awful lot like this[<sup>1</sup>](#1)
 
 References:
-<a name="1">1</a>: VWillyams Github
+<a name="1">1</a>: [VWillyams Github][vwillyams]
 [vwillyams]:http://vwillyams.github.com/ "My Github page!"
 
 These links are indexed in order of appearance on the page, so you don't need to remember that you're citing item number 47 - just remember whatever shorthand name you chose to give your citation.
