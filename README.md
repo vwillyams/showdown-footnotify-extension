@@ -19,7 +19,8 @@ Note that this plugin relies on anchor-scrolling, as such it will not work in An
 ```
 This is a reference[^](VWillyams Github)
 
-References:
+**References:
+
 <references>
 [VWillyams Github]: http://vwillyams.github.com/ "My Github page!"
 ```
@@ -28,7 +29,8 @@ References:
 
 This is a reference[<sup>1</sup>](#1)
 
-References:
+**References:
+
 <a name="1">1</a>: [VWillyams Github][vwillyams]
 [vwillyams]:http://www.github.com/vwillyams "My Github page!"
 
