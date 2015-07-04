@@ -17,7 +17,7 @@ Note that this plugin relies on anchor-scrolling, as such it will not work in An
 
 ### Code
 ```
-This is a reference![^](VWillyams Github)
+This is a reference[^](VWillyams Github)
 
 References:
 <references>
@@ -26,7 +26,7 @@ References:
 
 ### Results
 
-This is a reference![<sup>1</sup>](#1)
+This is a reference[<sup>1</sup>](#1)
 
 References:
 <a name="1">1</a>: [VWillyams Github][vwillyams]
