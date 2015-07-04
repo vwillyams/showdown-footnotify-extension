@@ -1,0 +1,32 @@
+{
+  "name": "showdown-footnotify-extension",
+  "description": "Simple footnote system for Showdown",
+  "homepage": "https://github.com/vwillyams/showdown-footnotify-extension",
+  "authors": [
+    "Victor Willyams"
+  ],
+  "main": [
+    "./showdown-footnotify-extension.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vwillyams/showdown-footnotify-extension.git"
+  },
+  "keywords": [
+    "markdown",
+    "showdown",
+    "showdown extension",
+    "wiki",
+    "link"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
